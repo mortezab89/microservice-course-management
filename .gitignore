@@ -1,0 +1,13 @@
+/.idea/misc.xml
+/.idea/libraries/**
+/microservice-course-management/.mvn/wrapper/MavenWrapperDownloader.java
+/.idea/encodings.xml
+/microservice-course-management/mvnw.cmd
+/.idea/microservice-course-management.iml
+/.idea/compiler.xml
+/microservice-course-management/mvnw
+/.idea/modules.xml
+/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml
+/microservice-course-management/.mvn/wrapper/maven-wrapper.properties
+/.idea/vcs.xml
+/wrapper/**
